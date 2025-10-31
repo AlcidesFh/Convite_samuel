@@ -42,7 +42,7 @@ button:hover {
 .confirmado {
   margin-top: 20px;
   font-weight: bold;
-  color: green;
+  color: white;
 }
 .titulo {
   color: #ffffff;
@@ -84,3 +84,4 @@ button:hover {
   padding: 8px 12px;
   margin: 2px;
 }
+
