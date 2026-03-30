@@ -30,7 +30,7 @@ form.addEventListener('submit', function(event) {
 
   // Prepara mensagem e WhatsApp
   const msg = `Olá! Eu confirmo minha presença. Meu nome é ${nome}.`;
-  const numeroDestino = "5511980952823";
+  const numeroDestino = "5511949590067";
   const url = `https://wa.me/${numeroDestino}?text=${encodeURIComponent(msg)}`;
 
   // Marca presença e abre WhatsApp
